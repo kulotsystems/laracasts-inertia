@@ -1,5 +1,5 @@
 <template>
-    <h1>Home</h1>
+    <h1>Settings</h1>
     <Navigation/>
 </template>
 
@@ -7,7 +7,7 @@
     import Navigation from '../Shared/Nav.vue';
 
     export default {
-        name: 'Home',
+        name: 'Settings',
         components: {
             Navigation
         },
